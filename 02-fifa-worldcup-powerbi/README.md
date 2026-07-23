@@ -12,6 +12,6 @@ An interactive Power BI dashboard covering the full history of the FIFA World Cu
 
 ## Screenshots
 - `screenshots/fifa-dashboard-overview.png` — main overview page
-- `screenshots/fifa-dashboard-details.png` — details table page
+  
 
 **Skills demonstrated:** Power BI data modeling, DAX measures, interactive visuals & slicers, map visualizations, dashboard storytelling.
