@@ -1,16 +1,30 @@
-# ⚽ Project 2: FIFA World Cup Dashboard (Power BI)
+# Data Visualization & Analytics Portfolio
 
-An interactive Power BI dashboard covering the full history of the FIFA World Cup (1930–2026, including announced future hosts).
+This repository documents my progress through a **Data Visualization & Analytics training program**, with one hands-on project per module/topic as I complete them.
 
-## Key visuals
-- **KPI cards:** Total Hosts (25), Total Teams (537), Total Years (25)
-- **World Cup Host Countries** — interactive map of all host nations
-- **Top 3 Wins** — bar chart of most-titled countries (Brazil 5, Italy 4, Argentina 3, West Germany 3)
-- **Goals Scored in Final by Year** — line chart tracking final-match goal totals over time
-- **Year slicer** for dynamic filtering across pages
-- A second "Details" page with the underlying match-by-match table (host, finalists, score, teams, goals)
+## 📚 Training Overview
 
-## Screenshots
-- `screenshots/fifa-dashboard-overview.png` — main overview page
+| Module | Topics Covered |
+|---|---|
+| **1. Principles of Data Visualization** | Importance of data viz in analytics, chart types & when to use them, storytelling best practices |
+| **2. Tools for Data Visualization** | Excel for reports, Tableau & Power BI for interactive dashboards, Python (Matplotlib, Seaborn, Plotly), dashboard design principles |
+| **3. Statistical Analysis for Data Science** | Descriptive statistics, inferential statistics (hypothesis testing, confidence intervals), regression analysis, data distributions |
+| **4. Advanced Analytics Techniques** | Predictive analytics & ML intro, time series forecasting, clustering & segmentation, text/sentiment analysis (NLP) |
+| **5. Real-World Applications & Case Studies** | Industry case studies (e-commerce, healthcare, finance), interactive dashboard project, group business-trend analysis, insight presentation |
 
-**Skills demonstrated:** Power BI data modeling, DAX measures, interactive visuals & slicers, map visualizations, dashboard storytelling.
+## 🗂️ Projects
+
+| # | Project | Tool | Status |
+|---|---|---|---|
+| 01 | [HR Analytics Dashboard](./01-hr-analytics-excel) | Excel (Pivot Tables) | ✅ Done |
+| 02 | [FIFA World Cup Dashboard](./02-fifa-worldcup-powerbi) | Power BI | ✅ Done |
+| 03 | *Coming soon* | — | 🔜 In progress |
+
+Each project lives in its own folder with its own `README.md`, source file(s), and screenshots.
+
+## 🛠️ Tools Used So Far
+`Excel` · `Power BI` · `Pivot Tables` · `DAX`
+
+---
+
+*Part of my ongoing Data Visualization & Analytics training portfolio.*
